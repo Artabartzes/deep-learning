@@ -1,5 +1,5 @@
 appdirs==1.4.3
-appnope==0.1.0
+  appnope==0.1.0
 bleach==2.0.0
 decorator==4.0.11
 entrypoints==0.2.2
@@ -34,7 +34,7 @@ pyzmq==16.0.2
 qtconsole==4.3.0
 simplegeneric==0.8.1
 six==1.10.0
-tensorflow==1.0.0
+tensorflow==1.1.0
 terminado==0.6
 testpath==0.3
 tornado==4.4.3
